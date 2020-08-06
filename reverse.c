@@ -29,5 +29,5 @@ int main()
    printf("The reverse of entered number is %d\n", rev);
  
    return 0;
- 
+ klsfnslfn
 }
